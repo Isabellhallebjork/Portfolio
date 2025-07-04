@@ -12,7 +12,7 @@ VR-game where the player collect resources in a crisis situation under time prea
 
 ---
 
-## Bokcirkeln Webapp
+## Bokcirkle Webapp
 Webbapplication for bookdiscussions
 - PHP / HTML / CSS
 
