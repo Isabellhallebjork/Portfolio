@@ -7,7 +7,8 @@ Here are my projects from my studies in systemdevelopment at University West
 ##  VR Crisis Management Game
 VR-game where the player collect resources in a crisis situation under time preassure.
 - Unreal engine / Twinmotion
-  [Se projektmapp](./vr-crisis-management)
+
+  See project upon request
 
 ---
 
@@ -15,12 +16,14 @@ VR-game where the player collect resources in a crisis situation under time prea
 Webbapplication for bookdiscussions
 - PHP / HTML / CSS
 
+  See project upon request
 ---
 
 ## Login-service 
 A simple usermanagement service with register, login and sessions
 - PHP / SQL
 
+  See project upon request
 ---
 
 ## Digital theses - UI/UX-design
